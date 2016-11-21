@@ -1,0 +1,83 @@
+/* image style */
+
+figure {
+	display: table;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#twitter {
+	float: right;
+	max-width: 25%;
+}
+
+/*text style */
+
+body {
+	padding: 20px;
+}
+
+figcaption {
+	font-size: 80%
+}
+
+#text {
+	max-width: 65%;
+}
+
+p { 
+	color: black; 
+	font-family: 'Domine', serif;
+	font-size: 100%;
+	line-height: 1.2;
+}
+h1  {
+	font-family: 'Creepster', cursive;
+	font-weight: 400;
+	font-size: 300%;
+	color: #000000;
+	
+}
+h2 {
+	font-family: 'Domine', serif;
+
+}
+
+h4 {
+	text-decoration: underline;
+	font-size: 120%;
+}
+
+/* lede style */
+
+.lede { 
+	line-height: 1.5; 
+}
+
+/* mouse over link */
+a:hover {
+    color: green;
+
+}
+
+/*block quote style*/
+
+p.blocktext {
+    margin-right: auto;
+    width: 30em;
+    font-style: italic;
+}
+
+/*background color*/
+
+body {
+    background-color: #F5F5DC;
+}
+
+footer {
+
+    width:100%;
+}
+
+
+
